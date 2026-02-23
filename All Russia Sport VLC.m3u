@@ -1,0 +1,117 @@
+#EXTM3U url-tvg="http://epg.one/epg.xml,http://epg.streaming-elbrus.su/xmltv/epg.xml.gz"
+
+#EXTINF:-1 group-title="Обновление",Update 21.02.2026 19:20 по моск. времени
+http://127.0.0.1:6878/ace/getstream?id=a54d3ec9d49487cb1e9102c74f341fec4cebd189
+
+#EXTINF:-1 group-title="Pimpletv",Pimpletv 016d4
+http://127.0.0.1:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+#EXTINF:-1 group-title="Pimpletv",Pimpletv 350b2
+http://127.0.0.1:6878/ace/getstream?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296
+#EXTINF:-1 group-title="Pimpletv",Pimpletv 8442b
+http://127.0.0.1:6878/ace/getstream?id=8442b5c7c99e5af57c2c40c1e28153072968988a
+#EXTINF:-1 group-title="Pimpletv",Pimpletv aca05
+http://127.0.0.1:6878/ace/getstream?id=aca05dc506242324c1727525d0535ceda24f8dea
+#EXTINF:-1 group-title="Pimpletv",Pimpletv bc99b
+http://127.0.0.1:6878/ace/getstream?id=bc99becb2a74f8f455d6dbaa3bd85c6c7e938a6c
+#EXTINF:-1 group-title="Pimpletv",Pimpletv e38b3
+http://127.0.0.1:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
+
+#EXTINF:-1 group-title="ACETOP",ACETOP-FHD
+http://127.0.0.1:6878/ace/getstream?id=cf49017a8fa07b42d126fa681b51c141cc1a8fff
+#EXTINF:-1 group-title="ACETOP",ACETOP-1
+http://127.0.0.1:6878/ace/getstream?id=65d49691687add6a93692a757817bac4f204ed1f
+#EXTINF:-1 group-title="ACETOP",ACETOP-2
+http://127.0.0.1:6878/ace/getstream?id=78637dab85e7948057165ad0c80b3db475dd9c3d
+#EXTINF:-1 group-title="ACETOP",ACETOP-3
+http://127.0.0.1:6878/ace/getstream?id=99da47072cf6d0d9323479791026c48961889557
+
+#EXTINF:-1 group-title="МАТЧ",Матч ТВ
+http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 group-title="МАТЧ",Матч ТВ
+http://127.0.0.1:6878/ace/getstream?id=f69b2859510dce33b992dd1940f95254c6e6f51c
+
+#EXTINF:-1 group-title="МАТЧ",Матч Премьер HD
+http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 group-title="МАТЧ",Матч Премьер HD
+http://127.0.0.1:6878/ace/getstream?id=88c482d9e57b1a031c032344f9c00cf7b36da8d9
+
+#EXTINF:-1 group-title="МАТЧ",МАТЧ! Футбол 1
+http://127.0.0.1:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+
+#EXTINF:-1 group-title="МАТЧ",МАТЧ! Футбол 2
+http://127.0.0.1:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+
+#EXTINF:-1 group-title="МАТЧ",МАТЧ! Футбол 3
+http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 group-title="МАТЧ",МАТЧ! Футбол 3
+http://127.0.0.1:6878/ace/getstream?id=7f6ceda82b964c416983ab233787cee4e2333435
+
+#EXTINF:-1 group-title="МАТЧ",МАТЧ! Игра
+http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c
+
+#EXTINF:-1 group-title="МАТЧ",МАТЧ! Арена
+http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
+
+#EXTINF:-1 group-title="МАТЧ",МАТЧ! Страна
+http://127.0.0.1:6878/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1
+
+#EXTINF:-1 group-title="МАТЧ",МАТЧ! Боец
+http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
+
+#EXTINF:-1 group-title="Setanta",Setanta Eurasia
+http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 group-title="Setanta",Setanta Sport 1
+http://127.0.0.1:6878/ace/getstream?id=626c5326f29984bbedceee04c9694a0447ba0a9a
+#EXTINF:-1 group-title="Setanta",Setanta Eurasia Plus
+http://127.0.0.1:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
+
+#EXTINF:-1 group-title="EUROSPORT",Eurosport 1
+http://127.0.0.1:6878/ace/getstream?id=fbc82948dd7c19387a702692bc4590157b376459
+#EXTINF:-1 group-title="EUROSPORT",Eurosport 1
+http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
+
+#EXTINF:-1 group-title="EUROSPORT",Eurosport 2
+http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0
+
+
+#EXTINF:-1 group-title="Остальное",Старт
+http://127.0.0.1:6878/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc
+
+#EXTINF:-1 group-title="Остальное",Футбол
+http://127.0.0.1:6878/ace/getstream?id=fce354f24fe26ca527e2c38b14eb7b0c81f756dd
+
+#EXTINF:-1 group-title="Остальное",viju+ Sport
+http://127.0.0.1:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
+#EXTINF:-1 group-title="Остальное",viju+ Sport
+http://127.0.0.1:6878/ace/getstream?id=f6b7553df66ac4bffd4b3ead443b647322d1a7e0
+
+#EXTINF:-1 group-title="Остальное",Мяч
+http://127.0.0.1:6878/ace/getstream?id=92f8939c7bff6bcb7e6da39379bb3d7a6a76693f
+#EXTINF:-1 group-title="Остальное",Мяч
+http://127.0.0.1:6878/ace/getstream?id=65ae3e0427ef14d9ef88f0183c011e6ff42ca062
+
+#EXTINF:-1 group-title="Беларусь 5",Беларусь 5
+http://127.0.0.1:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f
+#EXTINF:-1 group-title="Беларусь 5",Беларусь 5
+http://127.0.0.1:6878/ace/getstream?id=9a2aad5b2b4294e07021bdd58b1ca5de3a2c4040
+
+#EXTINF:-1 group-title="Хоккей",KHL
+http://127.0.0.1:6878/ace/getstream?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0
+#EXTINF:-1 group-title="Хоккей",KHL Prime HD
+http://127.0.0.1:6878/ace/getstream?id=dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b
+#EXTINF:-1 group-title="Хоккей",Хоккей ТВ
+http://127.0.0.1:6878/ace/getstream?id=8b7c300e60486a80c1e25bc5ecd693533fca52a4
+#EXTINF:-1 group-title="Хоккей",Хоккей ТВ
+http://127.0.0.1:6878/ace/getstream?id=99f0646986e9266836dd79047dedecb04e243857
+
+#EXTINF:-1 group-title="Остальное",Мир Баскетбола
+http://127.0.0.1:6878/ace/getstream?id=c4acde347445b0a07a9e8695b4254bee2b2df570
+#EXTINF:-1 group-title="Остальное",Мир Баскетбола
+http://127.0.0.1:6878/ace/getstream?id=f6fe32f9f31a7b72693a2ede8e5ad039b9ff1677
+
+#EXTINF:-1 group-title="Бокс и единоборства",Удар
+http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64
+#EXTINF:-1 group-title="Бокс и единоборства",Бокс ТВ
+http://127.0.0.1:6878/ace/getstream?id=1acaf203502983cd2993c6835bf0cbde8d016c3d
+#EXTINF:-1 group-title="Бокс и единоборства",Бокс ТВ
+http://127.0.0.1:6878/ace/getstream?id=4fe43d0daca047040d2e758f82302bed3bbf854a
